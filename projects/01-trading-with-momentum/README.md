@@ -1,7 +1,5 @@
 # Trading with Momentum
 
-Part of my Udacity **AI for Trading** Nanodegree (project passed on review).
-
 ## What it does
 Builds a momentum strategy: computes log returns, ranks stocks by prior-period returns, selects top and bottom performers, and evaluates the long/short portfolio with a statistical test on the returns.
 

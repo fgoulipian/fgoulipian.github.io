@@ -1,7 +1,5 @@
 # Smart Beta and Portfolio Optimization
 
-Part of my Udacity **AI for Trading** Nanodegree (project passed on review).
-
 ## What it does
 Builds smart-beta portfolios against a market-cap-weighted benchmark, compares their tracking error, and solves for portfolios with CVXPY.
 

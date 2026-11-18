@@ -1,7 +1,5 @@
 # NLP on Financial Statements
 
-Part of my Udacity **AI for Trading** Nanodegree (project passed on review).
-
 ## What it does
 Parses SEC 10-K filings, scores them with Loughran-McDonald sentiment word lists and TF-IDF similarity, and tests the resulting signals as alpha factors.
 

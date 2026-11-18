@@ -1,7 +1,5 @@
 # Multi-factor Model
 
-Part of my Udacity **AI for Trading** Nanodegree (project passed on review).
-
 ## What it does
 Constructs alpha factors, evaluates them with Alphalens, and combines them in a multi-factor risk-model workflow with CVXPY optimization.
 

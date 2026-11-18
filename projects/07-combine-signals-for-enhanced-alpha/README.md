@@ -1,7 +1,5 @@
 # Combine Signals for Enhanced Alpha
 
-Part of my Udacity **AI for Trading** Nanodegree (project passed on review).
-
 ## What it does
 Combines several alpha signals with ensemble methods and evaluates the combined signal with Alphalens.
 

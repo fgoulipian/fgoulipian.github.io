@@ -1,7 +1,5 @@
 # Breakout Strategy
 
-Part of my Udacity **AI for Trading** Nanodegree (project passed on review).
-
 ## What it does
 Implements a breakout signal from rolling highs and lows, filters out noisy signals, and runs a long-short backtest.
 

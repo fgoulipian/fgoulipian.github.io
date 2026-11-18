@@ -1,7 +1,5 @@
 # Backtesting
 
-Part of my Udacity **AI for Trading** Nanodegree (project passed on review).
-
 ## What it does
 Builds a backtest with a risk model, alpha factors and transaction-cost optimization, then analyzes performance attribution.
 

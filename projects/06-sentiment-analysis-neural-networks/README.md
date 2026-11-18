@@ -1,7 +1,5 @@
 # Sentiment Analysis with Neural Networks
 
-Part of my Udacity **AI for Trading** Nanodegree (project passed on review).
-
 ## What it does
 Trains a neural network in PyTorch to classify StockTwits messages as bullish or bearish.
 
